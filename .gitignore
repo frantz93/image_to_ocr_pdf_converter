@@ -1,0 +1,14 @@
+# Virtual environment created by python -m venv or similar
+.venv/
+
+# Alternative virtual environment folder name
+venv/
+
+# Python bytecode cache directories
+__pycache__/
+
+# Compiled Python files
+*.pyc
+
+# VS Code workspace and settings (user-specific)
+.vscode/
